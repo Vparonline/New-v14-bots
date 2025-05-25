@@ -13,13 +13,12 @@ Uygun fiyata satışa sunuyorum daha iyisini bulamazsınız <a href="http://disc
 # Görseller
 <details>
 <summary>Web Sistemi</summary>
-![image](https://github.com/user-attachments/assets/a30447e9-e2e1-4787-aa07-5e1662a7c748)
-![image](https://github.com/user-attachments/assets/c9b828d4-fc45-4f9a-a8f4-163038db9540)
-![image](https://github.com/user-attachments/assets/80770e96-e739-4f99-bb7e-54e0fee75727)
-![image](https://github.com/user-attachments/assets/2f361e50-f44f-48a1-a927-0f6f3594df8c)
-![image](https://github.com/user-attachments/assets/11814d4a-7a5b-41c2-ac22-4af58198784a)
-![image](https://github.com/user-attachments/assets/0c262033-0a81-4032-9af1-62165772c254)
-![image](https://github.com/user-attachments/assets/c0774c71-e60f-44a3-9949-d2e50440477d)
+ <img src="https://github.com/user-attachments/assets/a30447e9-e2e1-4787-aa07-5e1662a7c748" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c9b828d4-fc45-4f9a-a8f4-163038db9540" width="400"/>
+  <img src="https://github.com/user-attachments/assets/80770e96-e739-4f99-bb7e-54e0fee75277" width="400"/>
+  <img src="https://github.com/user-attachments/assets/2f361e50-f44f-48a1-a927-06f5394df8c8" width="400"/>
+  <img src="https://github.com/user-attachments/assets/11814d4a-7a5b-41c2-ac22-4af58198784a" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c0774c71-e60f-44a3-9949-d2e50440477d" width="400"/>
 </details>
 <details>
 <summary>Kayıt Komutları</summary>
