@@ -32,7 +32,7 @@ Uygun fiyata satışa sunuyorum daha iyisini bulamazsınız <a href="http://disc
 <summary>Özel Oda Komutları</summary>
 ![image](https://github.com/user-attachments/assets/c611288f-dfee-4354-a179-7c6a0f4720cb)
 </details>
-# Author & Licence
+
 Telif Hakkı © 2025 Elchavopy
 [![Creative Commons Lisansı](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)
 Bu proje [Creative Commons Alıntı-Türetilemez 4.0 Uluslararası Lisansı](https://creativecommons.org/licenses/by-nd/4.0/) ile lisanslanmıştır.
