@@ -1,6 +1,6 @@
 # SATILIK
 
-Geliştirmekte olduğum Web Ödeme ve Web Yönetimli Discord botum satıştadır.
+Kullanmakta olduğum Web Ödeme ve Web Yönetimli Discord botum satıştadır.
 
 Botu detaylı incelemek için discord üzerinden iletişime geçebilirsin.
 
