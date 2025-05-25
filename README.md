@@ -34,5 +34,5 @@ Uygun fiyata satışa sunuyorum daha iyisini bulamazsınız <a href="http://disc
 </details>
 
 Telif Hakkı © 2025 Elchavopy<br>
-<center>[![Creative Commons Lisansı](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)<br></center>
+[![Creative Commons Lisansı](https://i.creativecommons.org/l/by-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nd/4.0/)<br>
 Bu proje [Creative Commons Alıntı-Türetilemez 4.0 Uluslararası Lisansı](https://creativecommons.org/licenses/by-nd/4.0/) ile lisanslanmıştır.
