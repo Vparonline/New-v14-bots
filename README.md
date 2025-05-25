@@ -9,8 +9,8 @@ Uygun fiyata satışa sunuyorum daha iyisini bulamazsınız <a href="http://disc
 ⚙️ Botun yönetimi tamamen web paneli üzerinden yapılabilir; ödeme durumu doğrultusunda botun çalışması otomatik olarak devam eder veya durdurulur.<br>
 ⚙️ Tüm sunucuların yönetimi için uygun şekilde hazırlanmıştır.<br>
 ⚙️ Public & Ekip ve Sohbet sunucuları için özenli şekilde ayarlanmış 100+ eksiksiz komutu bulunmaktadır.<br>
-⚙️ Farklı sunucu yapılarıyla tam uyumlu olup, 7/24 kesintisiz ve sorunsuz bir şekilde çalışacak şekilde yapılandırılmıştır.
-⚙️ Monitör ekranından tüm botların CMD'ye düşürdüğü logları izleyebilirsiniz. (Çalınma riski nedeniyle bu özelliği göstermek istemedim.)
+⚙️ Farklı sunucu yapılarıyla tam uyumlu olup, 7/24 kesintisiz ve sorunsuz bir şekilde çalışacak şekilde yapılandırılmıştır.<br>
+⚙️ Monitör ekranından tüm botların CMD'ye düşürdüğü logları izleyebilirsiniz. (Çalınma riski nedeniyle bu özelliği göstermek istemedim.)<br>
 ⚙️ Botlarım ekranı üzerinden birden fazla sunucunuz var ise o botlara erişebilir, özel işlemlerinizi kolayca gerçekleştirebilirsiniz.
 # Görseller
 <details>
