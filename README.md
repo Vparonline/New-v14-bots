@@ -6,9 +6,9 @@ Botu detaylı incelemek için discord üzerinden iletişime geçebilirsin.
 
 Uygun fiyata satışa sunuyorum daha iyisini bulamazsınız <a href="http://discord.com/users/1067476859933179954">Elchavopy</a>
 # Özellikler
-⚙️ Botun yönetimi tamamen web paneli üzerinden yapılabilir; ödeme durumu doğrultusunda botun çalışması otomatik olarak devam eder veya durdurulur.
-⚙️ Tüm sunucuların yönetimi için uygun şekilde hazırlanmıştır.
-⚙️ Public & Ekip ve Sohbet sunucuları için özenli şekilde ayarlanmış 100+ eksiksiz komutu bulunmaktadır.
+⚙️ Botun yönetimi tamamen web paneli üzerinden yapılabilir; ödeme durumu doğrultusunda botun çalışması otomatik olarak devam eder veya durdurulur.<br>
+⚙️ Tüm sunucuların yönetimi için uygun şekilde hazırlanmıştır.<br>
+⚙️ Public & Ekip ve Sohbet sunucuları için özenli şekilde ayarlanmış 100+ eksiksiz komutu bulunmaktadır.<br>
 ⚙️ Farklı sunucu yapılarıyla tam uyumlu olup, 7/24 kesintisiz ve sorunsuz bir şekilde çalışacak şekilde yapılandırılmıştır.
 # Görseller
 <details>
