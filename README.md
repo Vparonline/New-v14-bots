@@ -23,7 +23,7 @@ Uygun fiyata satışa sunuyorum daha iyisini bulamazsınız <a href="http://disc
 </details>
 <details>
 <summary>Kayıt Komutları</summary>
-<img src="https://github.com/user-attachments/assets/f4d491cf-16e6-4a01-b254-b6ee6502cb64" width="400"/><br>
+<img src="https://github.com/user-attachments/assets/76dc3ef7-eed6-41ed-a19d-ab0b5b63a11a" width="400"/><br>
 <img src="https://github.com/user-attachments/assets/b2400c65-6fbb-499d-8c03-c1e2099b6b7d" width="400"/><br>
 <img src="https://github.com/user-attachments/assets/2ebcc655-4d76-4e6e-aab0-1057a99848c3" width="400"/><br>
 <img src="https://github.com/user-attachments/assets/1d2a8f92-d2c2-4300-bb54-31b007adc642" width="400"/><br>
