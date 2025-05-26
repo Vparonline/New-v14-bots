@@ -5,6 +5,9 @@ Kullanmakta olduğum Web Ödeme ve Web Yönetimli Discord botum satıştadır.
 Botu detaylı incelemek için discord üzerinden iletişime geçebilirsin.
 
 Uygun fiyata satışa sunuyorum daha iyisini bulamazsınız <a href="http://discord.com/users/1067476859933179954">Elchavopy</a>
+
+https://www.itemsatis.com/discord/public-bot-web-panel-3880256.html
+
 # Özellikler
 ⚙️ Botun yönetimi tamamen web paneli üzerinden yapılabilir; ödeme durumu doğrultusunda botun çalışması otomatik olarak devam eder veya durdurulur.<br>
 ⚙️ Tüm sunucuların yönetimi için uygun şekilde hazırlanmıştır.<br>
